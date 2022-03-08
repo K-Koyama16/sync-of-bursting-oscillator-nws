@@ -1,0 +1,12 @@
+# simulatin results
+*.npy
+
+# initial values of HRneurons.
+*.csv
+
+# notebook
+# python
+.ipynb_checkpoints
+__pycache__
+
+
