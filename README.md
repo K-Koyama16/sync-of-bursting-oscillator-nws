@@ -42,5 +42,5 @@ Initial values are stored in csv file under the "initial_value" directory.
 shape: N×3
 
 ## Simulation Results
-Simulation results (output of simulation.py) are stored as ".npy" in the "result_matrix" directory.  
+Simulation results (output of simulation.py) are stored as ".npy" in the "result" directory.  
 shape: Number of trial × D(or A)-Range × k-Range
